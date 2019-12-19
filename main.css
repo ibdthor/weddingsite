@@ -1,6 +1,6 @@
 @font-face
 {
-font-family: "AOM"; src: url("./KGAllofMe.tff") format("truetype");
+font-family: "AOM"; src: url("./KGAllofMe.tff");
 }
 
-h1 { color: #00FFFF; font-family: "AOM"; }
+h1 { color: #FFFF00; font-family: "AOM"; }
